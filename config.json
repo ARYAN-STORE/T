@@ -1,18 +1,18 @@
 {
-  "botToken": "Bot_Token",
-  "mongoURI": "MOngoDB_URI",
+  "botToken": "7399456245:AAGvZIcLkIYHIg4ogiNoiZutmHIp_JCSjUg",
+  "mongoURI": "mongodb+srv://simisimiv2:2TmkspgESAT7rFWD@simisimi.is7na.mongodb.net/?retryWrites=true&w=majority&appName=SimiSimi",
   "note": "Make sure to add your bot token and mongoURI from MongoDB and also respect author for their hardwork for this project by not changing code unnecessarily.",
   "prefix": "/",
   "adminId": [
-    "5947023314",
-    "6550312881",
-    "5492951949"
+    "7888999718",
+    "7888999718",
+    "7888999718"
   ],
   "owner": "5947023314",
   "onlyAdmin": false,
   "port": "3000",
-  "botName": "Yukai Bot",
-  "copyrightMark": "[ 🐉 | Yukai ]",
+  "botName": "Sigma Bot",
+  "copyrightMark": "[ ArYAN ]",
   "greetNewMembers": {
     "enabled": true,
     "gifUrl": "https://telegra.ph/file/0f328de5109569feceff3.gif"
